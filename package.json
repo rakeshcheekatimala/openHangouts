@@ -22,6 +22,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/extra-number/is-positive.git"
-  }
+    "url": "git+https://github.com/rakeshcheekatimala/openHangouts.git"
+  },
+  "bugs": {
+   "url": "https://github.com/rakeshcheekatimala/openHangouts/issues"
+ }
 }
