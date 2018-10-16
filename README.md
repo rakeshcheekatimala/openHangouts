@@ -17,3 +17,7 @@ A small library that helps to openHangouts when hangoutId is provided.
       title="open Hangouts"
       color="#841584"
     />
+
+## Issues
+
+https://github.com/rakeshcheekatimala/openHangouts/issues
