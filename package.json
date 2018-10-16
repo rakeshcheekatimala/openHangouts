@@ -17,9 +17,6 @@
   ],
   "author": "RakeshCheekatimala",
   "license": "ISC",
-  "dependencies": {
-    "react-native": "^0.57.3"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/rakeshcheekatimala/openHangouts.git"
