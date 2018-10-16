@@ -1,4 +1,4 @@
-# Number Formatter
+# Open Hangouts from ReactNative App
 
 A small library that helps to openHangouts when hangoutId is provided.
 
