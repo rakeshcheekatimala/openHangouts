@@ -1,0 +1,27 @@
+{
+  "name": "openhangouts",
+  "version": "1.0.0",
+  "description": "Simple Library to openHangouts in reactnative app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "openHangouts",
+    "ReactNative",
+    "Hangouts",
+    "DeepLinking",
+    "Linking Hangouts"
+    "hangouts",
+    "reactnative"
+  ],
+  "author": "RakeshCheekatimala",
+  "license": "ISC",
+  "dependencies": {
+    "react-native": "^0.57.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/extra-number/is-positive.git"
+  }
+}
