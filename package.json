@@ -11,7 +11,7 @@
     "ReactNative",
     "Hangouts",
     "DeepLinking",
-    "Linking Hangouts"
+    "Linking Hangouts",
     "hangouts",
     "reactnative"
   ],
@@ -25,6 +25,6 @@
     "url": "git+https://github.com/rakeshcheekatimala/openHangouts.git"
   },
   "bugs": {
-   "url": "https://github.com/rakeshcheekatimala/openHangouts/issues"
- }
+    "url": "https://github.com/rakeshcheekatimala/openHangouts/issues"
+  }
 }
